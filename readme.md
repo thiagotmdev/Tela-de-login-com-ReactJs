@@ -10,7 +10,7 @@
 
 ### Cores utilizadas / colors used
 
-![colors of project](/public/images/Colors.png 'Image Project')
+![colors of project](/public/images/Colors.png 'Colors Project')
 
 #### Para instalar rode os comandos abaixo / For install run the commands bellow
 
