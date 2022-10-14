@@ -6,11 +6,11 @@
 
 ### Imagem do projeto / Image Project
 
-![Image Project](./images/img_project.jpg 'Image Project').
+!(/public/images/img_project.jpg 'Image Project').
 
 ### Cores utilizadas / colors used
 
-![Image Project](./images/Colors.png 'Image Project').
+!(/public/images/Colors.png 'Image Project').
 
 #### Para instalar rode os comandos abaixo / For install run the commands bellow
 
