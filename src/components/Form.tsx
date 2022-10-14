@@ -5,7 +5,7 @@ export function Form(){
   return(
    <section>
       <form className="flex flex-col items-stretch mt-10" action="#">
-            <label className="font-semibold" htmlFor="email gap-3 ">
+            <label className="font-semibold gap-3" htmlFor="email">
             <p>Endereço de e-mail</p>
               <div className="w-96 h-8 text-gray-400 bg-gray-800 flex flex-row p-1 gap-1 focus-within:ring-2 ring-cyan-300 rounded" >
                 <Envelope size="24"/>
@@ -13,7 +13,7 @@ export function Form(){
               </div>
             </label>
 
-            <label className="font-semibold mt-4" htmlFor="email gap-3">
+            <label className="font-semibold mt-4 gap-3" htmlFor="email">
             <p>Sua senha</p>
               <div className="w-96 h-8 text-gray-400 bg-gray-800 flex flex-row p-1 gap-1 focus-within:ring-2 ring-cyan-300 rounded">
                 <Lock size="24"/>
