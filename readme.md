@@ -6,7 +6,7 @@
 
 ##### Download
 
-<code><copy>>git clone https://github.com/thiagotmdev/Tela-de-login-com-ReactJs.git</copy></code>
+<code><copy>git clone https://github.com/thiagotmdev/Tela-de-login-com-ReactJs.git</copy></code>
 
 <code>npm install</code>
 
