@@ -10,7 +10,7 @@
 
 https://github.com/thiagotmdev/Tela-de-login-com-ReactJs.git
 
-##### Após baixar o repositório execute no prompto código abaixo / After download repository run the code bellow
+##### Após baixar o repositório execute no prompt o código abaixo / After download repository run the code bellow
 
 <code>npm install</code>
 
