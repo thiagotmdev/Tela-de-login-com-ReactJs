@@ -4,7 +4,7 @@
 
 >This project aims to include knowledge in the javascript language with ReactJs framework and knowledge of Frontend, in which I developed a simple login screen.
 
-#### Para instalar rode os comandos abaixo
+#### Para instalar rode os comandos abaixo / For install run the commands bellow
 
 ##### Download
 
@@ -12,6 +12,6 @@ https://github.com/thiagotmdev/Tela-de-login-com-ReactJs.git
 
 <code>npm install</code>
 
-##### Rodar o projeto
+##### Rodar o projeto / Run project
 
 <code> npm run dev </code>
